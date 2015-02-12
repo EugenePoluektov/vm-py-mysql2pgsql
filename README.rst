@@ -1,3 +1,3 @@
-Vagrant vm: 
-	Ubuntu 12.04 LTS 64-bit
-	py-mysql2pgsql - A tool for migrating/converting/exporting data from MySQL to PostgreSQL (https://github.com/philipsoutham/py-mysql2pgsql)
+Vagrant vm contains: 
+1) Ubuntu 12.04 LTS 64-bit
+2) py-mysql2pgsql (https://github.com/philipsoutham/py-mysql2pgsql)
